@@ -1,0 +1,22 @@
+[
+  {
+    "id": "terms",
+    "title": "Terms and Conditions",
+    "content": "By using this application, you agree to abide by all applicable laws and regulations. The service may not be used for unlawful purposes. The company reserves the right to update or modify the terms at any time."
+  },
+  {
+    "id": "privacy",
+    "title": "Privacy Policy",
+    "content": "We are committed to protecting your privacy. We collect personal information only to provide and improve our services. Your data will never be sold or shared without your consent, except as required by law."
+  },
+  {
+    "id": "about",
+    "title": "About Us",
+    "content": "DoctorToken is a digital healthcare platform designed to simplify your clinic visit experience. We help users manage doctor tokens, appointments, and health data with ease."
+  },
+  {
+    "id": "appdata",
+    "title": "App Data",
+    "content": "The app stores information such as your token history, doctor visits, preferences, and usage statistics. All data is securely stored and encrypted."
+  }
+]
